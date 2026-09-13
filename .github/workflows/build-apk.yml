@@ -16,7 +16,7 @@ jobs:
 
       - name: Extract Android Project
         run: |
-          unzip -o MyFinance_Android_V1_0_GitHubActions.zip
+          unzip -o MyFinance_Android_V1_0_1_GitHubActions.zip
           ls -la
 
       - name: Set up Java
